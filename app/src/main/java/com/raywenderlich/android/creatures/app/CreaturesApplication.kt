@@ -11,6 +11,7 @@ class CreaturesApplication : Application() {
     super.onCreate()
 
     // Initialize CreatureStore
+    //test
     CreatureStore.loadCreatures(this)
     CreatureStore.loadFoods(this)
   }

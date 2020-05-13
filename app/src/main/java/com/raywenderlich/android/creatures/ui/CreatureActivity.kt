@@ -5,8 +5,8 @@ package com.raywenderlich.android.creatures.ui
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.raywenderlich.android.creatures.R
 import com.raywenderlich.android.creatures.model.Favorites
 import com.raywenderlich.android.creatures.model.Creature
